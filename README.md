@@ -6,5 +6,5 @@ This short el file add a function to permanently pop up and close a eshell windo
 
 Add this to your .emacs file to add a key binding.
 
-    (global-set-key (kbd "C-c m") 'ss-eshell-toogle)
+    (global-set-key (kbd "C-c m") 'honey-eshell-toogle)
 
